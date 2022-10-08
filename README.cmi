@@ -2,7 +2,8 @@
 Data insights to produce marketing strategies for Cyclistic bike-share Company (Data provided by the Google Data Analytics Certificate).
 
 This SQL queries let us union the four season datasets to make a whole year dataset analysis, which resulted in four interesting insights: 
-the average ride length by each day of the week, the number of rides by each day of the week, the number of rides by gender and the number of rides by birthyear.
+the average ride length by each day of the week, the number of rides by each day of the week, the number of rides by gender and the number of rides by birthyear:
+https://github.com/raulmarbal/Cyclistic-Marketing-insights/blob/main/cyclistic_queries.sql
 
 For this customer behavior insights project a Tableau Dashboard Visualization was created, which can be observed in the following link: 
 https://public.tableau.com/views/Cyclisticcustomerbehaviorinsights/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
